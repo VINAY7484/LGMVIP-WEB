@@ -1,5 +1,6 @@
-## Demo: 
-<img src="/demo_images/demo.gif">
+# 02 BEGINNER LEVEL
+
+ ## Create a web application using create-react-app
 
 # Getting Started with Create React App
 
